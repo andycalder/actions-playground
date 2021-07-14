@@ -1,2 +1,2 @@
 # actions-playground
-Just experimenting with GitHub Actions
+Just experimenting with GitHub Actions.
